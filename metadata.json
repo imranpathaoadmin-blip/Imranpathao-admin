@@ -1,0 +1,6 @@
+{
+  "name": "Asset Live Stock - Inventory & Google Sheets Tracker",
+  "description": "Real-time asset stock tracker with live quantity calculation, transaction history, and seamless Google Sheets cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
